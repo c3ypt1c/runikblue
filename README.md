@@ -25,6 +25,8 @@ In the above, you'll see `Salvete`(Latin/"Greetings") written in RunikBlue.
 As you can see, we append the first `a` to `S` and `e` to `u`, even though `u` has an Alternative.
 (When multiple vowels are in a row, you only use the Alternative for the last one.)
 
+### `i`
+
 ![Example of the letter "i" in RB](/resources/images/i_vs_ei_example.png)
 
 `I` is unique, in that it's not it's own character. (`i` is actually a modifacation of `e`)
@@ -32,6 +34,9 @@ As you can see, we append the first `a` to `S` and `e` to `u`, even though `u` h
 When following an `e`, you would actually write `e(ei)` as shown in the image above, and in the example of the word `Eight` below.
 
 ![Example of the word "Eight" in RB](/resources/images/eight_example.png)
+
+### `K`
+Because `c` and `k` are the same, if you come across `ck` in a word you should just write it once. (`Back` should be `Bak`, not `Bakk`)
 
 ###### Other characters
 
