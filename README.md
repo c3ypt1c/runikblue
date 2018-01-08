@@ -32,3 +32,13 @@ As you can see, we append the first `a` to `S` and `e` to `u`, even though `u` h
 When following an `e`, you would actually write `e(ei)` as shown in the image above, and in the example of the word `Eight` below.
 
 ![Example of the word "Eight" in RB](/resources/images/eight_example.png)
+
+###### Other characters
+
+When sepperating words, remember to use dashes`-` not spaces.
+
+Also, it is intended for you to Roman Numerals instead of digits. (For these, use latin characters not RB)
+
+---
+
+Want to leave your mark? Throw some text in `/resources/runikblue_text.svg` and do a pull request~ <3
